@@ -18,7 +18,7 @@
 <resources>
     <color name="black">#21272b</color>
     <color name="white">#ffffff</color>
-    <color name="page_background">#e4e7e9</color>
+    <color name="page_background">#585858</color> <!--#e4e7e9  -->
 
     <color name="primary">@color/page_background</color>
     <color name="primary_dark">#c2c5c7</color>
