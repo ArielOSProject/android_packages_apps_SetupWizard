@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <style name="Theme.Setup" parent="@android:style/Theme.Material">
+    <style name="Theme.Setup" parent="@android:style/Theme.Material.Light">
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
@@ -23,7 +23,9 @@
 
         <item name="android:colorPrimary">@color/primaryColor</item>
         <item name="android:colorPrimaryDark">@color/primaryDarkColor</item>
-        <item name="android:colorAccent">@color/secondaryDarkColor</item>
+        <item name="android:colorAccent">@color/secondaryColor</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
 
         <item name="android:textColorLink">@color/secondaryDarkColor</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
@@ -49,7 +51,7 @@
     </style>
 
     <style name="PageContent">
-        <item name="android:background">@color/primaryDarkColor</item>
+        <item name="android:background">@color/primaryColor</item>
         <item name="android:paddingTop">@dimen/content_margin_top</item>
     </style>
 
@@ -62,6 +64,7 @@
     <style name="PageSummaryText">
         <item name="android:id">@android:id/summary</item>
         <item name="android:lineSpacingExtra">@dimen/setup_line_spacing</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
     </style>
 
     <style name="SpinnerItem">
