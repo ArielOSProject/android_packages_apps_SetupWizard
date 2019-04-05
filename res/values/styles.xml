@@ -20,10 +20,12 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:colorPrimary">@color/primary</item>
-        <item name="android:colorPrimaryDark">@color/primary</item>
-        <item name="android:colorAccent">@color/accent</item>
-        <item name="android:textColorLink">@color/accent</item>
+
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="android:colorAccent">@color/secondaryDarkColor</item>
+
+        <item name="android:textColorLink">@color/secondaryDarkColor</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:windowAnimationStyle">@style/ActivityAnimations</item>
         <item name="android:windowLightStatusBar">true</item>
@@ -42,19 +44,19 @@
     </style>
 
     <style name="PageContainer">
-        <item name="android:textColor">@color/primary_text</item>
-        <item name="android:background">@color/page_background</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:background">@color/primaryDarkColor</item>
     </style>
 
     <style name="PageContent">
-        <item name="android:background">@color/page_background</item>
+        <item name="android:background">@color/primaryDarkColor</item>
         <item name="android:paddingTop">@dimen/content_margin_top</item>
     </style>
 
     <style name="PageTitle">
         <item name="android:id">@android:id/title</item>
         <item name="android:textSize">20sp</item>
-        <item name="android:textColor">@color/black</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
     </style>
 
     <style name="PageSummaryText">

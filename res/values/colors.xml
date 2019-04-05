@@ -35,4 +35,13 @@
     <color name="header_condensed_bg">@color/primary</color>
     <color name="button_bar_background">@color/primary</color>
     <color name="fingerprint_setup_text_color">#167C80</color>
+
+    <color name="primaryColor">#546e7a</color>
+    <color name="primaryLightColor">#819ca9</color>
+    <color name="primaryDarkColor">#29434e</color>
+    <color name="secondaryColor">#1875d1</color>
+    <color name="secondaryLightColor">#63a3ff</color>
+    <color name="secondaryDarkColor">#004a9f</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
 </resources>
