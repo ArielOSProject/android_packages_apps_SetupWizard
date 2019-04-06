@@ -36,12 +36,12 @@
     <color name="button_bar_background">@color/primary</color>
     <color name="fingerprint_setup_text_color">#167C80</color>
 
-    <color name="primaryColor">#546e7a</color>
-    <color name="primaryLightColor">#819ca9</color>
-    <color name="primaryDarkColor">#29434e</color>
-    <color name="secondaryColor">#00e5ff</color>
-    <color name="secondaryLightColor">#6effff</color>
-    <color name="secondaryDarkColor">#00b2cc</color>
+    <color name="primaryColor">#2962ff</color>
+    <color name="primaryLightColor">#768fff</color>
+    <color name="primaryDarkColor">#0039cb</color>
+    <color name="secondaryColor">#1de9b6</color>
+    <color name="secondaryLightColor">#6effe8</color>
+    <color name="secondaryDarkColor">#00b686</color>
     <color name="primaryTextColor">#ffffff</color>
     <color name="secondaryTextColor">#000000</color>
 </resources>
