@@ -20,25 +20,25 @@
     <color name="white">#ffffff</color>
     <color name="page_background">#585858</color> <!--#e4e7e9  -->
 
-    <color name="primary">@color/primaryDarkColor</color>
+    <color name="primary">@color/primaryColor</color>
     <color name="primary_dark">@color/primaryDarkColor</color>
-    <color name="accent">@color/secondaryDarkColor</color>
+    <color name="accent">@color/secondaryColor</color>
     <!--<color name="primary_text">#8a000000</color>-->
-    <color name="primary_text">@color/white</color>
+    <color name="primary_text">@color/primaryTextColor</color>
     <!--<color name="secondary_text">#42000000</color>-->
-    <color name="secondary_text">@color/accent</color>
+    <color name="secondary_text">@color/secondaryColor</color>
     <!--<color name="button_bar_text_enabled">#ff1e1e1e</color>-->
-    <color name="button_bar_text_enabled">@color/white</color>
-    <color name="button_bar_text_disabled">#321e1e1e</color>
+    <color name="button_bar_text_enabled">@color/primaryTextColor</color>
+    <color name="button_bar_text_disabled">@color/primaryDarkColor</color>
     <color name="divider">#40000000</color>
     <color name="header_bg">@color/primary</color>
     <color name="header_condensed_bg">@color/primary</color>
     <color name="button_bar_background">@color/primary</color>
     <color name="fingerprint_setup_text_color">@color/secondaryDarkColor</color>
 
-    <color name="primaryColor">#b0bec5</color>
-    <color name="primaryLightColor">#e2f1f8</color>
-    <color name="primaryDarkColor">#808e95</color>
+    <color name="primaryColor">#cfd8dc</color>
+    <color name="primaryLightColor">#ffffff</color>
+    <color name="primaryDarkColor">#9ea7aa</color>
     <color name="secondaryColor">#00b0ff</color>
     <color name="secondaryLightColor">#69e2ff</color>
     <color name="secondaryDarkColor">#0081cb</color>

@@ -23,7 +23,7 @@
 
         <item name="android:colorPrimary">@color/primaryColor</item>
         <item name="android:colorPrimaryDark">@color/primaryDarkColor</item>
-        <item name="android:colorAccent">@color/secondaryDarkColor</item>
+        <item name="android:colorAccent">@color/secondaryColor</item>
 
         <item name="android:textColorLink">@color/secondaryDarkColor</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
