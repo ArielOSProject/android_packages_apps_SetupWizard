@@ -20,7 +20,7 @@
     <color name="white">#ffffff</color>
     <color name="page_background">#585858</color> <!--#e4e7e9  -->
 
-    <color name="primary">@color/primaryColor</color>
+    <color name="primary">@color/primaryDarkColor</color>
     <color name="primary_dark">@color/primaryDarkColor</color>
     <color name="accent">@color/secondaryDarkColor</color>
     <!--<color name="primary_text">#8a000000</color>-->
@@ -39,9 +39,9 @@
     <color name="primaryColor">#b0bec5</color>
     <color name="primaryLightColor">#e2f1f8</color>
     <color name="primaryDarkColor">#808e95</color>
-    <color name="secondaryColor">#448aff</color>
-    <color name="secondaryLightColor">#83b9ff</color>
-    <color name="secondaryDarkColor">#005ecb</color>
+    <color name="secondaryColor">#dd2c00</color>
+    <color name="secondaryLightColor">#ff6434</color>
+    <color name="secondaryDarkColor">#a30000</color>
     <color name="primaryTextColor">#000000</color>
-    <color name="secondaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
 </resources>

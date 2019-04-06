@@ -49,7 +49,7 @@
     </style>
 
     <style name="PageContent">
-        <item name="android:background">@color/primaryDarkColor</item>
+        <item name="android:background">@color/primaryColor</item>
         <item name="android:paddingTop">@dimen/content_margin_top</item>
     </style>
 
