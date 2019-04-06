@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <style name="Theme.Setup" parent="@android:style/Theme.Material">
+    <style name="Theme.Setup" parent="@android:style/Theme.Material.Light">
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
@@ -70,7 +70,6 @@
     <style name="SpinnerItem">
         <item name="android:textSize">15sp</item>
         <item name="android:paddingLeft">@dimen/content_margin_left</item>
-        <item name="android:textColor">@color/primaryTextColor</item>
     </style>
 
     <style name="ButtonBar" parent="@android:style/Widget.Material.ActionButton">
