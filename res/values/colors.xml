@@ -38,10 +38,10 @@
 
     <color name="primaryColor">#546e7a</color>
     <color name="primaryLightColor">#819ca9</color>
-    <color name="primaryDarkColor">#FF00A4</color> <!-- #29434e -->
-    <color name="secondaryColor">#69f0ae</color>
-    <color name="secondaryLightColor">#9fffe0</color>
-    <color name="secondaryDarkColor">#2bbd7e</color>
+    <color name="primaryDarkColor">#29434e</color>
+    <color name="secondaryColor">#00e5ff</color>
+    <color name="secondaryLightColor">#6effff</color>
+    <color name="secondaryDarkColor">#00b2cc</color>
     <color name="primaryTextColor">#ffffff</color>
     <color name="secondaryTextColor">#000000</color>
 </resources>
