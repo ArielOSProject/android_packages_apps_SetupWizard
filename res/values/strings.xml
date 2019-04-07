@@ -104,4 +104,8 @@
     <string name="lockscreen_setup_summary"><b>Protect this device</b> and require a PIN, pattern, or password to unlock the screen</string>
     <string name="lockscreen_setup_screen_lock_setup">Set up</string>
 
+    <!-- arielos -->
+    <string name="arielos_welcome">Welcome to ArielOS!</string>
+    <string name="arielos_summary_text">ArieOS is designed to give you the best of Android while providing security features and protecting your private data. Enjoy using it and stay safe online! </string>
+
 </resources>
