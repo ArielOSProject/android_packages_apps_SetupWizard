@@ -106,6 +106,6 @@
 
     <!-- arielos -->
     <string name="arielos_welcome">Welcome to ArielOS!</string>
-    <string name="arielos_summary_text">ArieOS is designed to give you the best of Android while providing security features and protecting your private data. Enjoy using it and stay safe online! </string>
+    <string name="arielos_summary_text">Built on top of LineageOS, ArielOS strives to give you the best of Android while providing security features and protecting your private data. Enjoy using it and stay safe online! </string>
 
 </resources>
