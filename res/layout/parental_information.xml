@@ -45,7 +45,7 @@
                     android:layout_marginBottom="@dimen/summary_margin_bottom"
                     android:paddingLeft="@dimen/content_margin_left"
                     android:paddingRight="@dimen/content_margin_right"
-                    android:text="@string/arielos_summary_text"
+                    android:text="@string/parental_control_summary"
                     style="@style/PageSummaryText" />
 
                 <TextView
@@ -59,7 +59,7 @@
                     android:gravity="center_vertical"
                     android:textSize="16sp"
                     android:textStyle="bold"
-                    android:text="@string/feature_ad_block"/>
+                    android:text="@string/feature_locate"/>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -72,44 +72,7 @@
                     android:gravity="center_vertical"
                     android:textSize="16sp"
                     android:textStyle="bold"
-                    android:text="@string/feature_block_tracking"/>
-
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="24dp"
-                    android:paddingLeft="@dimen/content_margin_left"
-                    android:paddingRight="@dimen/location_text_margin_right"
-                    android:drawableStart="@drawable/ic_check_mark"
-                    android:drawablePadding="24dp"
-                    android:gravity="center_vertical"
-                    android:textSize="16sp"
-                    android:textStyle="bold"
-                    android:text="@string/feature_gambling_porn"/>
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="24dp"
-                    android:paddingLeft="@dimen/content_margin_left"
-                    android:paddingRight="@dimen/location_text_margin_right"
-                    android:drawableStart="@drawable/ic_check_mark"
-                    android:drawablePadding="24dp"
-                    android:gravity="center_vertical"
-                    android:textSize="16sp"
-                    android:textStyle="bold"
-                    android:text="@string/feature_safe_browsing"/>
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="15sp"
-                    android:layout_marginBottom="@dimen/summary_margin_bottom"
-                    android:paddingLeft="@dimen/content_margin_left"
-                    android:paddingRight="@dimen/content_margin_right"
-                    android:text="@string/stay_safe_online"
-                    style="@style/PageSummaryText" />
+                    android:text="@string/feature_topapp"/>
 
             </LinearLayout>
         </ScrollView>

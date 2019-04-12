@@ -29,6 +29,10 @@
     </WizardAction>
 
     <WizardAction wizard:uri="intent:#Intent;action=org.lineageos.setupwizard.ARIEL_WELCOME;end" id="ariel_welcome">
+        <result wizard:action="ariel_parental_control" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=org.lineageos.setupwizard.ARIEL_PARENTAL_CONTROL;end" id="ariel_parental_control">
         <result wizard:action="locale" />
     </WizardAction>
 

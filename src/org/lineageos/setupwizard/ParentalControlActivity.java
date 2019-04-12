@@ -19,10 +19,10 @@ package org.lineageos.setupwizard;
 
 import android.os.Bundle;
 
-public class ArielOSWelcomeActivity extends BaseSetupWizardActivity {
+public class ParentalControlActivity extends BaseSetupWizardActivity {
 
     public static final String TAG =
-            ArielOSWelcomeActivity.class.getSimpleName().substring(0, 22);
+            ParentalControlActivity.class.getSimpleName().substring(0, 22);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,12 +37,12 @@ public class ArielOSWelcomeActivity extends BaseSetupWizardActivity {
 
     @Override
     protected int getLayoutResId() {
-        return R.layout.arielos_welcome;
+        return R.layout.parental_information;
     }
 
     @Override
     protected int getTitleResId() {
-        return R.string.arielos_welcome;
+        return R.string.parental_control;
     }
 
     @Override
