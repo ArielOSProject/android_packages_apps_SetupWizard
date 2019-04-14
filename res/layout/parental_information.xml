@@ -94,7 +94,7 @@
                     android:layout_marginBottom="@dimen/summary_margin_bottom"
                     android:paddingLeft="@dimen/content_margin_left"
                     android:paddingRight="@dimen/content_margin_right"
-                    android:text="@string/parental_control_summary"
+                    android:text="@string/parental_control_info"
                     style="@style/PageSummaryText" />
 
             </LinearLayout>

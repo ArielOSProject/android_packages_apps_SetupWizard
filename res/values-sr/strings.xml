@@ -85,16 +85,18 @@
     <!-- arielos start -->
     <string name="arielos_welcome">Добродошли у ArielOS!</string>
     <string name="parental_control">Родитељски надзор</string>
-    <string name="arielos_summary_text">Built on top of LineageOS, ArielOS strives to give you the best of Android while providing security features and protecting your private data. Enjoy using it and stay safe online! </string>
+    <string name="arielos_summary_text">Заснован на LineageOS, ArielOS тежи ка томе да вам пружи најбоље од Андроида обезбеђујући виши степен сигурности и заштите ваших приватних података. Уживајте у коришћењу и чувајте се на Интернету!</string>
     <string name="feature_ad_block">Интегрисана блокада реклама</string>
-    <string name="stay_safe_online">WARNING: While ArielOS provides security and privacy to some extent, please note that it is your responsibility to behave appropriately online and use extreme precaution. Trust no one online. Stay safe.</string>
+    <string name="stay_safe_online">ПАЖЊА: Иако ArielOS пружа додатну сигурност и заштиту, имајте у виду да је ваша одговорност како се понашате на Интернету и да будете максимално опрезни. Не верујте никоме на Интернету. Будите безбедни.</string>
     <string name="feature_block_tracking">Блокада праћења кроз апликације</string>
     <string name="feature_safe_browsing">Безбедније сурфовање са DuckDuckGo</string>
     <string name="feature_sms_control">Контрола путем SMS</string>
     <string name="feature_gambling_porn">Блокиран приступ непримереним Интернет садржајима</string>
-    <string name="parental_control_summary">ArielOS comes equipped with integrated parental control options available via SMS commands. Here is the list of available commands:</string>
-    <string name="feature_init">init - Иницијализује и поставља број телефона родитеља</string>
-    <string name="feature_locate">locate - Доставља локацију уређаја</string>
-    <string name="feature_topapp">topapp - Доставља име апликације која се највише користи</string>
+    <string name="parental_control_summary">ArielOS долази са интегрисаним контролама за родитељски надзор путем SMS порука. Ово су доступне команде:</string>
+    <string name="feature_init">init - Поставља број за родитељски надзор.</string>
+    <string name="feature_locate">locate - Одређује локацију уређаја и шаље је родитељу.</string>
+    <string name="feature_topapp">topapp - Одређује апликацију која се највише користи и шаље информацију родитељу.</string>
+    <string name="parental_control_info">ПАЖЊА:Тренутно, ArielOS поджава само један родитељски број телефона који може да користи родитељске команде. Уколико желите да промените тај број,
+        морате вратити уређај на фабричко подешавање (factory reset).</string>
     <!-- arielos end -->
 </resources>
