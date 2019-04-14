@@ -96,7 +96,7 @@
     <string name="feature_init">init - Поставља број за родитељски надзор.</string>
     <string name="feature_locate">locate - Одређује локацију уређаја и шаље је родитељу.</string>
     <string name="feature_topapp">topapp - Одређује апликацију која се највише користи и шаље информацију родитељу.</string>
-    <string name="parental_control_info">ПАЖЊА:Тренутно, ArielOS поджава само један родитељски број телефона који може да користи родитељске команде. Уколико желите да промените тај број,
+    <string name="parental_control_info">ПАЖЊА: Тренутно, ArielOS поджава само један родитељски број телефона који може да користи родитељске команде. Уколико желите да промените тај број,
         морате вратити уређај на фабричко подешавање (factory reset).</string>
     <!-- arielos end -->
 </resources>
