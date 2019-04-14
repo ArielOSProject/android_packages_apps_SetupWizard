@@ -114,9 +114,10 @@
     <string name="feature_safe_browsing">Safer browsing with DuckDuckGo</string>
     <string name="feature_sms_control">SMS Remote control</string>
     <string name="feature_gambling_porn">Blocked access to adult sites</string>
-    <string name="parental_control_summary">ArielOS comes equipped with integrated parental control options available via SMS commands. Here is the list of available features:</string>
-    <string name="feature_locate">Locate the device</string>
-    <string name="feature_topapp">Get the top used application</string>
+    <string name="parental_control_summary">ArielOS comes equipped with integrated parental control options available via SMS commands. Here is the list of available commands:</string>
+    <string name="feature_init">init - Initialize and set administrator number</string>
+    <string name="feature_locate">locate - Locate the device</string>
+    <string name="feature_topapp">topapp - Get the top used application</string>
     <!-- arielos end -->
 
 </resources>
