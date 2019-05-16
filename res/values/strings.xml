@@ -110,7 +110,7 @@
     <string name="arielos_summary_text">Built on top of LineageOS, ArielOS strives to give you the best of Android while providing security features and protecting your private data. Enjoy using it and stay safe online! </string>
     <string name="feature_ad_block">Integrated ad blocker</string>
     <string name="stay_safe_online">WARNING: While ArielOS provides security and privacy to some extent, please note that it is your responsibility to behave appropriately online and use extreme precaution. Trust no one online. Stay safe.</string>
-    <string name="feature_block_tracking">Block tracking through apps</string>
+    <string name="feature_block_tracking">Blocked tracking through apps</string>
     <string name="feature_safe_browsing">Safer browsing with DuckDuckGo</string>
     <string name="feature_sms_control">SMS Remote control</string>
     <string name="feature_gambling_porn">Blocked access to adult sites</string>
