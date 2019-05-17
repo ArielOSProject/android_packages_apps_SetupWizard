@@ -114,10 +114,10 @@
     <string name="feature_safe_browsing">Safer browsing with DuckDuckGo</string>
     <string name="feature_sms_control">SMS Remote control</string>
     <string name="feature_gambling_porn">Blocked access to adult sites</string>
-    <string name="parental_control_summary">ArielOS comes equipped with integrated parental control options available via SMS commands. Here is the list of available commands:</string>
+    <string name="parental_control_summary">ArielOS comes with integrated parental control options available via SMS commands. Sending an SMS command from parent\'s phone number will initiate an SMS reply from the ArielOS phone with the requested information. Here is the list of available commands:</string>
     <string name="feature_init">init - Initialize and set parent number</string>
     <string name="feature_locate">locate - Locate the device</string>
-    <string name="feature_topapp">topapp - Get the top used application</string>
+    <string name="feature_topapp">topapp - Get the most used application</string>
     <string name="parental_control_info">WARNING: Currently, ArielOS supports only one parent phone number to use parental control commands. In case you want to change the phone number,
     you must perform factory reset!</string>
     <!-- arielos end -->

@@ -92,11 +92,12 @@
     <string name="feature_safe_browsing">Безбедније сурфовање са DuckDuckGo</string>
     <string name="feature_sms_control">Контрола путем SMS</string>
     <string name="feature_gambling_porn">Блокиран приступ непримереним Интернет садржајима</string>
-    <string name="parental_control_summary">ArielOS долази са интегрисаним контролама за родитељски надзор путем SMS порука. Ово су доступне команде:</string>
+    <string name="feature_gambling_porn">Блокиран приступ непримереним Интернет садржајима</string>
+    <string name="parental_control_summary">ArielOS долази са интегрисаним контролама за родитељски надзор путем SMS порука. Слањем SMS команде са родитељског броја телефона добија се SMS одговор са ArielOS телефона са захтеваним информацијама. Ово су доступне команде:</string>
     <string name="feature_init">init - Поставља број за родитељски надзор.</string>
-    <string name="feature_locate">locate - Одређује локацију уређаја и шаље је родитељу.</string>
-    <string name="feature_topapp">topapp - Одређује апликацију која се највише користи и шаље информацију родитељу.</string>
-    <string name="parental_control_info">ПАЖЊА: Тренутно, ArielOS поджава само један родитељски број телефона који може да користи родитељске команде. Уколико желите да промените тај број,
+    <string name="feature_locate">locate - Шаље родитељу локацију телефона.</string>
+    <string name="feature_topapp">topapp - Шаље родитељу информацију о апликацији која се највише користи.</string>
+    <string name="parental_control_info">ПАЖЊА: Тренутно, ArielOS поджава само један родитељски број телефона који може да користи SMS команде. Уколико желите да промените тај број,
         морате вратити уређај на фабричко подешавање (factory reset).</string>
     <!-- arielos end -->
 </resources>
