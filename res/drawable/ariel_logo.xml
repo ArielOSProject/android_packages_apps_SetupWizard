@@ -7,10 +7,10 @@
         <aapt:attr name="android:strokeColor">
             <gradient android:endX="527.5" android:endY="1028"
                 android:startX="527.5" android:startY="20" android:type="linear">
-                <item android:color="#FF000191" android:offset="0"/>
-                <item android:color="#FF0092FF" android:offset="0.33715"/>
+                <item android:color="#FF0002FF" android:offset="0"/>
+                <item android:color="#FF0092FF" android:offset="0.33193"/>
                 <item android:color="#FFFF00D5" android:offset="0.69018996"/>
-                <item android:color="#FFA10000" android:offset="1"/>
+                <item android:color="#FFFF0000" android:offset="1"/>
             </gradient>
         </aapt:attr>
     </path>
