@@ -118,6 +118,9 @@
     <string name="feature_topapp">topapp - Get the most used application</string>
     <string name="parental_control_info">WARNING: Currently, ArielOS supports only one parent phone number to use parental control commands. In case you want to change the phone number,
     you must perform factory reset!</string>
+    <string name="parental_control_send_sms">To setup parental controls on this device and connect your phone with it, please send an SMS from the phone you wish to use with the following content: </string>
+    <string name="parental_control_setup_info">Once the SMS is received and validated, this screen will automatically close and you will receive a confirmation SMS on the phone you used to send the previous message.</string>
+    <string name="parental_control_sms_format">init_%1$d</string>
     <!-- arielos end -->
 
 </resources>
