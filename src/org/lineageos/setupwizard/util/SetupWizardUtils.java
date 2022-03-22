@@ -68,6 +68,8 @@ import org.lineageos.internal.util.PackageManagerUtils;
 import java.util.ArrayList;
 import java.util.List;
 
+import lineageos.providers.LineageSettings;
+
 public class SetupWizardUtils {
 
     private static final String TAG = SetupWizardUtils.class.getSimpleName();
@@ -206,6 +208,15 @@ public class SetupWizardUtils {
             Settings.Secure.putInt(contentResolver,
                     Settings.Secure.TV_USER_SETUP_COMPLETE, 1);
         }
+        // ARIEL MOD
+        System.out.println("AAAAAAAAAAAAAAAAAA SETTINGS UP DNS AAAAAAAAAAAAAAAAA");
+        Settings.Global.putString(contentResolver,
+                Settings.Global.PRIVATE_DNS_MODE, "hostname");
+        Settings.Global.putString(contentResolver,
+                Settings.Global.PRIVATE_DNS_SPECIFIER, "dns.adguard.com");
+        LineageSettings.Secure.putInt(contentResolver,
+                LineageSettings.Secure.STATS_COLLECTION, 0);
+        // ARIEL MOD
 
         disableComponent(context, WizardManager.class);
         disableHome(context);
