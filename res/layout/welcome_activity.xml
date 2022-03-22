@@ -39,7 +39,7 @@
                 android:id="@+id/brand_logo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:src="@drawable/logo"
+                android:src="@drawable/ariel_logo"
                 android:adjustViewBounds="true"
                 android:scaleType="fitCenter"
                 android:gravity="center"
