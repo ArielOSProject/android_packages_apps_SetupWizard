@@ -209,7 +209,6 @@ public class SetupWizardUtils {
                     Settings.Secure.TV_USER_SETUP_COMPLETE, 1);
         }
         // ARIEL MOD
-        System.out.println("AAAAAAAAAAAAAAAAAA SETTINGS UP DNS AAAAAAAAAAAAAAAAA");
         Settings.Global.putString(contentResolver,
                 Settings.Global.PRIVATE_DNS_MODE, "hostname");
         Settings.Global.putString(contentResolver,
